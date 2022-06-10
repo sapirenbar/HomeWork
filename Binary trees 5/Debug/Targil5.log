@@ -1,0 +1,8 @@
+﻿  Main.c
+C:\Users\טופז\Desktop\Targil5\Targil5\Main.c(8,9): warning C4013: 'initBST' undefined; assuming extern returning int
+C:\Users\טופז\Desktop\Targil5\Targil5\Main.c(9,11): warning C4013: 'insertBST' undefined; assuming extern returning int
+C:\Users\טופז\Desktop\Targil5\Targil5\Main.c(22,18): warning C4013: 'printTreeInorder' undefined; assuming extern returning int
+C:\Users\טופז\Desktop\Targil5\Targil5\Main.c(23,37): warning C4013: 'findIndexNFromLast' undefined; assuming extern returning int
+C:\Users\טופז\Desktop\Targil5\Targil5\Main.c(24,35): warning C4013: 'sameHeightLeaves' undefined; assuming extern returning int
+C:\Users\טופז\Desktop\Targil5\Targil5\Main.c(25,12): warning C4013: 'destroyBST' undefined; assuming extern returning int
+  Targil5.vcxproj -> C:\Users\טופז\Desktop\Targil5\Debug\Targil5.exe
